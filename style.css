@@ -10,3 +10,8 @@ body{
 .fas {
     font-size: 10rem;
 }
+#footer{
+    position: absolute;
+    top: 93%;
+    left: 5%;
+}
