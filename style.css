@@ -1,0 +1,12 @@
+body{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url('https://images.indianexpress.com/2017/04/nature-tree_1200.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    /* object-fit: cover; */
+}
+.fas {
+    font-size: 10rem;
+}
